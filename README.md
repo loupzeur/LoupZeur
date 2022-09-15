@@ -9,4 +9,4 @@
 - ⚙️ I use daily: `.go`,`.yml`,`git`
 - ⚙️ I use monthly: `.py`,`docker-compose.yml`,`Dockerfile`
 - ⚙️ I use yearly: `.php`, `.js`, `.html`, `.css`, `.ts`, `.cpp`
-- 🌱 Learning all about **Open Source**, **Artificial Intelligence**, **Cyber Security**, ** BioTechnology **
+- 🌱 Learning all about **Open Source**, **Artificial Intelligence**, **Cyber Security**, **BioTechnology**
