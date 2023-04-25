@@ -5,7 +5,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working on short missions mostly in `golang` (micro architectures, some react fronts, a bit of php and python, ...)
+- 🏢 I'm currently working on short missions mostly in `golang` (micro architectures, some `react`/`nextjs` fronts and `python`, a bit of `php`, ...)
 - ⚙️ daily use : `.go`,`git`
 - ⚙️ weekly use : `.tsx`, `.ts`,`.css`,`.py`,`docker-compose.yml`,`Dockerfile`
 - ⚙️ monthly use : `.sql`, `.html`, `gh-action.yml`
