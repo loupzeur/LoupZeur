@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a DevOps Fullstack Developper working from Elsàss, France.
+#### I'm a DevOps Fullstack Developper working from Elsass, France.
 *I'm more interested by backend than frontend ...*
 
 ##### BIO
